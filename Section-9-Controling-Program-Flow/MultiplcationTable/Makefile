@@ -1,3 +1,3 @@
 CC = c++
 app: main.cpp
-	$(CC) main.cpp -o SimplePointers
+	$(CC) main.cpp -o MultiplcationTable

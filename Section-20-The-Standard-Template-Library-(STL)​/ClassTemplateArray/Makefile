@@ -1,3 +1,3 @@
 CC = c++
 app: main.cpp
-	$(CC) main.cpp -o Grades
+	$(CC) main.cpp -o ClassTemplateArray
